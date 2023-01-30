@@ -3,7 +3,7 @@
 
 ![Screenshot 2023-01-30 143620](https://user-images.githubusercontent.com/112589217/215577914-1adba490-38e2-4141-a63d-25754d206e4a.png)
 
-Its just a really simple app made for basic text messages and with the main objective of improve my programming skills 
+Its just a really simple app made for basic text messaging and the main objective of improve my programming skills 
 
 ## Understanding the project
 
