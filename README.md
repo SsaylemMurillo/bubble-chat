@@ -1,16 +1,20 @@
-# flutter_chat_app
+# Bubble Chat App
 
-A new Flutter project.
 
-## Getting Started
+![Screenshot 2023-01-30 143620](https://user-images.githubusercontent.com/112589217/215577914-1adba490-38e2-4141-a63d-25754d206e4a.png)
 
-This project is a starting point for a Flutter application.
+Its just a really simple app made for basic text messages and with the main objective of improve my programming skills 
+
+## Understanding the project
+
+This project is a very basic project made in flutter, divided in layers of functionalities.
+it is mainly focused on the visual development.
 
 A few resources to get you started if this is your first Flutter project:
 
 - [Lab: Write your first Flutter app](https://docs.flutter.dev/get-started/codelab)
 - [Cookbook: Useful Flutter samples](https://docs.flutter.dev/cookbook)
 
-For help getting started with Flutter development, view the
-[online documentation](https://docs.flutter.dev/), which offers tutorials,
-samples, guidance on mobile development, and a full API reference.
+Wanna help? sandresmurillo@outlook.com
+
+made by: SSAYKO
